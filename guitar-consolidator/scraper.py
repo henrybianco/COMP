@@ -40,6 +40,7 @@ How it works
    (filename encodes metadata so main.py scoring engine reads it)
 6. Run full consolidation pipeline on cached files
 7. Feed result back into knowledge base — every scrape improves the model
+8. do something stupid
 
 UG page structure (as of 2024-2025)
 ────────────────────────────────────
