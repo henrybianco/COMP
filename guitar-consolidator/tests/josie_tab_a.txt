@@ -1,0 +1,117 @@
+[Chords]
+G#maj7add13: xx6563
+A/D:         x57655
+B7#5#9:      x21233
+C/F:         xx3553
+D/G:         xx5775
+E/A:         xx7997
+F#7#9:       242355
+G/C:         x35433
+
+(On the record, those X/Y chords are almost certainly played as a standard X
+chord on guitar, with the bass covering the Y note; the fingerings suggested
+above are for anyone who wants to replicate the overall sound of those chords
+on a single guitar. And, incidentally, Laura Nyro was using major triads
+with the fourth in the bass when Don and Walt were still playing frat parties
+at Bard.)
+
+[Intro]
+   v   v   v   v     v   v   v   v     v   v   v   v     v   v   v   v
+e|-----------------|-----------------|-----------------|-----------------|
+B|-----------------|-----------------|-----------------|-----------------|
+G|---7---6-------3-|---4-------------|---7---6-------3-|-----------2-----|
+D|-------4-------1-|---2-------------|-------4-------1-|-------4---0-----|
+A|-7---------------|-----------------|-7---------------|-------2---------|
+E|-----------------|-----------------|-----------------|-----------------|
+
+   v   v   v   v
+e|-----------------|
+B|---------------0-|
+G|----2--1-0-------|
+D|-2----------4----|
+A|-----------------|
+E|-----------------|
+      ~~~3~~~ ~~~3~~~   (1/4-note triplets)
+
+
+[Intro]
+Fmaj7   F#7#9   Gmaj7   G#maj7add13
+
+[Verse 1]
+            Em7
+We're gonna break out the hats and hooters when Josie comes home
+
+We're gonna rev up the motorscooters
+                 A/D     G/C
+When Josie comes home to stay
+            D/G         C/F
+We're gonna park in the street
+Em7
+Sleep on the beach and make it
+A7                          G/C   D/G C/F
+Throw down the jam 'til the girls say when
+Em7                  D/G           E/A         Em7
+Lay down the law and break it when Josie comes home
+
+[Chorus 1]
+     C/F        F#7#9  B7#5#9    Em7   C/F
+When Josie comes home         so good
+          F#7#9        B7#5#9       Em7  A7
+She's the pride of the neighborhood
+          Am7  D7       Gmaj7 Cmaj7
+She's the raw flame, the live wire
+    F#7#9                      B7#5#9
+She prays like a Roman with her eyes on fire
+
+[Verse 2]
+            Em7
+Jo would you love to scrapple, she'll never say no
+
+Shine up the battle apple
+                 A/D     G/C
+We'll shake 'em all down tonight
+            D/G         C/F
+We're gonna mix in the street
+Em7
+Strike at the stroke of midnight
+A7                          G/C   D/G C/F
+Dance on the bones till the girls say when
+Em7                  D/G           E/A         Em7
+Pick up what's left by daylight when Josie comes home
+
+[Chorus 2]
+When Josie comes home, so bad
+She's the best friend we never had
+She's the raw flame, the live wire
+She prays like a Roman with her eyes on fire
+
+[Instrumental]
+(2:15 - 2:31)
+
+Play x3 (guitar is doubled by bass):
+
+   v   v   v   v     v   v   v   v
+e|-----------------|----------------|
+B|-----------------|----------------|
+G|-----------------|----------------|
+D|-5-7-------------|---5------------|
+A|-----------5---7-|----------------|
+E|-----------------|---------5-7----|
+                                ^^^ 2nd time only
+F#7#9  B7#5#9
+
+[Chorus 1]
+     C/F        F#7#9  B7#5#9    Em7   C/F
+When Josie comes home         so good
+          F#7#9        B7#5#9       Em7  A7
+She's the pride of the neighborhood
+          Am7  D7       Gmaj7 Cmaj7
+She's the raw flame, the live wire
+    F#7#9                      B7#5#9
+She prays like a Roman with her eyes on fire
+
+[Instrumental]
+Fmaj7   F#7#9   Gmaj7   G#maj7add13
+
+[Outro]
+(Guitar solo over Em7 to fade)

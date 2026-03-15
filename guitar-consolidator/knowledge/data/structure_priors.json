@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "total_songs": 1376,
+  "section_counts": {
+    "intro": {
+      "count": 1320,
+      "block_count_sum": 2083
+    },
+    "verse": {
+      "count": 3592,
+      "block_count_sum": 18790
+    },
+    "chorus": {
+      "count": 3980,
+      "block_count_sum": 15269
+    },
+    "outro": {
+      "count": 668,
+      "block_count_sum": 739
+    },
+    "bridge": {
+      "count": 332,
+      "block_count_sum": 1342
+    },
+    "instrumental": {
+      "count": 1718,
+      "block_count_sum": 3156
+    },
+    "link": {
+      "count": 688,
+      "block_count_sum": 904
+    },
+    "unlabeled": {
+      "count": 181,
+      "block_count_sum": 158
+    }
+  },
+  "transitions": {
+    "intro -> verse": 996,
+    "verse -> verse": 311,
+    "verse -> chorus": 2320,
+    "chorus -> verse": 1291,
+    "verse -> outro": 295,
+    "chorus -> bridge": 328,
+    "bridge -> verse": 328,
+    "chorus -> outro": 9,
+    "chorus -> instrumental": 1700,
+    "instrumental -> chorus": 688,
+    "instrumental -> outro": 364,
+    "intro -> chorus": 324,
+    "instrumental -> verse": 648,
+    "verse -> link": 648,
+    "link -> chorus": 648,
+    "verse -> bridge": 4,
+    "bridge -> link": 4,
+    "link -> verse": 4,
+    "unlabeled -> unlabeled": 157,
+    "link -> instrumental": 18,
+    "instrumental -> link": 18
+  },
+  "common_structures": {
+    "intro verse verse chorus verse chorus verse outro": 295,
+    "intro verse chorus verse chorus bridge verse chorus": 328,
+    "intro verse chorus verse chorus outro": 9,
+    "intro verse chorus verse chorus instrumental chorus instrumental outro": 364,
+    "intro chorus instrumental verse link chorus instrumental verse link chorus instrumental chorus": 324,
+    "verse verse bridge link verse bridge link verse": 2,
+    "unlabeled": 4,
+    "unlabeled unlabeled unlabeled unlabeled unlabeled unlabeled unlabeled unlabeled unlabeled unlabeled": 2,
+    "verse verse": 10,
+    "unlabeled unlabeled unlabeled unlabeled unlabeled unlabeled unlabeled unlabeled unlabeled": 17,
+    "link instrumental link": 18,
+    "unlabeled unlabeled unlabeled unlabeled": 1,
+    "verse verse verse": 2
+  }
+}

@@ -1,0 +1,1110 @@
+{
+  "version": 1,
+  "total_songs": 1375,
+  "progressions": {
+    "F": {
+      "F": {
+        "count": 285,
+        "confidence_sum": 256.38449999999995
+      },
+      "F Em7 A7 Dm Dm/C": {
+        "count": 21,
+        "confidence_sum": 15.6875
+      },
+      "Bb C7 F F/E Dm G7 Bb F F": {
+        "count": 129,
+        "confidence_sum": 88.46479999999998
+      },
+      "F Em A7 Dm C Bb C7 C/E Dm7 G7": {
+        "count": 12,
+        "confidence_sum": 12.0
+      },
+      "F Em7 A7 Dm C": {
+        "count": 750,
+        "confidence_sum": 521.5947999999989
+      },
+      "F Em A7 Dm C Bb": {
+        "count": 150,
+        "confidence_sum": 109.57809999999984
+      },
+      "C7 F C/E Dm7 G7 Bb": {
+        "count": 12,
+        "confidence_sum": 12.0
+      },
+      "Bbmaj7 C7 F Fmaj7 Dm7 G Bb": {
+        "count": 3,
+        "confidence_sum": 3.0
+      },
+      "Em7 A7 Dm Dm/C Bb Gm C F": {
+        "count": 404,
+        "confidence_sum": 143.00740000000008
+      },
+      "F/C G/B Bb F": {
+        "count": 294,
+        "confidence_sum": 195.97609999999992
+      },
+      "C7 F": {
+        "count": 530,
+        "confidence_sum": 489.57809999999984
+      },
+      "C/E Dm7 G7 Bb F": {
+        "count": 940,
+        "confidence_sum": 791.1367999999997
+      },
+      "Bbmaj7 C7 F": {
+        "count": 747,
+        "confidence_sum": 518.5947999999989
+      },
+      "Em7 A7 Dm C Bb": {
+        "count": 392,
+        "confidence_sum": 392.0
+      },
+      "Fmaj7 Dm7 G Bb F": {
+        "count": 496,
+        "confidence_sum": 332.1197999999994
+      },
+      "Em7 A7 Dm C Bb Gm": {
+        "count": 388,
+        "confidence_sum": 258.9499999999989
+      },
+      "Gm C7 F": {
+        "count": 388,
+        "confidence_sum": 258.9499999999989
+      },
+      "F F": {
+        "count": 10,
+        "confidence_sum": 5.0
+      },
+      "G": {
+        "count": 39,
+        "confidence_sum": 39.0
+      },
+      "G F#m7 B7 Em D": {
+        "count": 78,
+        "confidence_sum": 78.0
+      },
+      "Cmaj7 D7 G": {
+        "count": 78,
+        "confidence_sum": 78.0
+      },
+      "F G/F Bb F F": {
+        "count": 1,
+        "confidence_sum": 1.0
+      }
+    },
+    "G": {
+      "G B C Cm": {
+        "count": 316,
+        "confidence_sum": 316.0
+      },
+      "G B": {
+        "count": 3160,
+        "confidence_sum": 3159.0427
+      },
+      "C Cm": {
+        "count": 2536,
+        "confidence_sum": 2379.5003999999954
+      },
+      "D F# G Gm": {
+        "count": 12,
+        "confidence_sum": 12.0
+      },
+      "D F#": {
+        "count": 120,
+        "confidence_sum": 120.0
+      },
+      "G Gm": {
+        "count": 96,
+        "confidence_sum": 90.0
+      },
+      "G F#m B7 Emadd9 Em": {
+        "count": 6,
+        "confidence_sum": 6.0
+      },
+      "G7 G7sus4 G7 C": {
+        "count": 6,
+        "confidence_sum": 6.0
+      },
+      "Em/D Cmaj7 D7 G": {
+        "count": 4,
+        "confidence_sum": 4.0
+      },
+      "F C": {
+        "count": 8,
+        "confidence_sum": 8.0
+      },
+      "G7 C C": {
+        "count": 2,
+        "confidence_sum": 2.0
+      },
+      "G/F# Em7 A C G G": {
+        "count": 4,
+        "confidence_sum": 4.0
+      },
+      "F#m B7 Em D C": {
+        "count": 4,
+        "confidence_sum": 4.0
+      },
+      "Emadd9/B Em/B Am6 D7 G G/D G/F G/D G/C": {
+        "count": 2,
+        "confidence_sum": 2.0
+      },
+      "G7 C": {
+        "count": 2,
+        "confidence_sum": 2.0
+      },
+      "Emadd9/B Em/B Am6 D7 G G/D G/C G/B": {
+        "count": 2,
+        "confidence_sum": 2.0
+      },
+      "C Cmaj7 C7 F": {
+        "count": 6,
+        "confidence_sum": 6.0
+      },
+      "Am/E Dm": {
+        "count": 6,
+        "confidence_sum": 6.0
+      },
+      "Dm7/C G/B G7 C": {
+        "count": 8,
+        "confidence_sum": 8.0
+      },
+      "C Cmaj7 C7": {
+        "count": 2,
+        "confidence_sum": 2.0
+      },
+      "F Am/E Dm": {
+        "count": 4,
+        "confidence_sum": 4.0
+      },
+      "C C6 C7 G G7": {
+        "count": 4,
+        "confidence_sum": 4.0
+      },
+      "Em7/D Cmaj7 D7 G": {
+        "count": 2,
+        "confidence_sum": 2.0
+      },
+      "C": {
+        "count": 2,
+        "confidence_sum": 2.0
+      },
+      "C A#add9": {
+        "count": 2,
+        "confidence_sum": 2.0
+      },
+      "G5 A7/G C/G G4 G5 G4 G5": {
+        "count": 2,
+        "confidence_sum": 2.0
+      },
+      "G/B C6 A#add9": {
+        "count": 2,
+        "confidence_sum": 2.0
+      },
+      "D Em7 D/F# D": {
+        "count": 8,
+        "confidence_sum": 8.0
+      },
+      "G G#dim A A# Bm A#aug": {
+        "count": 6,
+        "confidence_sum": 6.0
+      },
+      "A G#dim G Gm": {
+        "count": 6,
+        "confidence_sum": 6.0
+      },
+      "D/F# E7 G/A D": {
+        "count": 6,
+        "confidence_sum": 6.0
+      },
+      "G D/F# E7 G/A D": {
+        "count": 6,
+        "confidence_sum": 6.0
+      },
+      "C Bm Am G Dm/F G": {
+        "count": 4,
+        "confidence_sum": 4.0
+      },
+      "C Bm Am G Dm/F E7": {
+        "count": 4,
+        "confidence_sum": 4.0
+      },
+      "G/A D Em7 D/F#": {
+        "count": 4,
+        "confidence_sum": 4.0
+      },
+      "A G#dim G Gm D/F# E7 G/A D": {
+        "count": 2,
+        "confidence_sum": 2.0
+      },
+      "D Em7 D/F# G D/F# E7 G/A": {
+        "count": 2,
+        "confidence_sum": 2.0
+      },
+      "A Bm7 A/C# A": {
+        "count": 8,
+        "confidence_sum": 8.0
+      },
+      "D D#dim E F F#m Faug": {
+        "count": 8,
+        "confidence_sum": 8.0
+      },
+      "E D#dim D Dm": {
+        "count": 6,
+        "confidence_sum": 6.0
+      },
+      "A/C# B7 D/E A": {
+        "count": 8,
+        "confidence_sum": 8.0
+      },
+      "D A/C# B7 D/E A": {
+        "count": 10,
+        "confidence_sum": 10.0
+      },
+      "G F#m Em D Am/C D": {
+        "count": 2,
+        "confidence_sum": 2.0
+      },
+      "G F#m Em D Am/C B7": {
+        "count": 2,
+        "confidence_sum": 2.0
+      },
+      "D/E A Bm7 A/C#": {
+        "count": 2,
+        "confidence_sum": 2.0
+      },
+      "E D#dim D Dm A/C# B7 D/E A": {
+        "count": 2,
+        "confidence_sum": 2.0
+      },
+      "A Bm7 A/C# D A/C# B7 D/E": {
+        "count": 2,
+        "confidence_sum": 2.0
+      }
+    },
+    "D": {
+      "Dm9 D": {
+        "count": 18,
+        "confidence_sum": 18.0
+      },
+      "Dm9 D F C G": {
+        "count": 5,
+        "confidence_sum": 5.0
+      },
+      "D F C F": {
+        "count": 1463,
+        "confidence_sum": 1463.0
+      },
+      "D F C G": {
+        "count": 42,
+        "confidence_sum": 41.0408
+      },
+      "D C F G": {
+        "count": 16,
+        "confidence_sum": 15.0408
+      },
+      "D D Dsus4 D Am7 Em7 G": {
+        "count": 142,
+        "confidence_sum": 142.0
+      },
+      "D Am7 Em7 G": {
+        "count": 1074,
+        "confidence_sum": 950.7239999999965
+      },
+      "Dm9 D F C G D": {
+        "count": 5,
+        "confidence_sum": 5.0
+      },
+      "Dm9": {
+        "count": 1312,
+        "confidence_sum": 1312.0
+      },
+      "D": {
+        "count": 1708,
+        "confidence_sum": 1708.0
+      },
+      "D F C G D": {
+        "count": 4,
+        "confidence_sum": 4.0
+      },
+      "D Dsus4 D": {
+        "count": 974,
+        "confidence_sum": 974.0
+      },
+      "D F": {
+        "count": 1952,
+        "confidence_sum": 1952.0
+      },
+      "C": {
+        "count": 1300,
+        "confidence_sum": 1300.0
+      },
+      "G": {
+        "count": 1300,
+        "confidence_sum": 1300.0
+      },
+      "C F": {
+        "count": 650,
+        "confidence_sum": 650.0
+      },
+      "D C": {
+        "count": 650,
+        "confidence_sum": 650.0
+      },
+      "F G": {
+        "count": 652,
+        "confidence_sum": 652.0
+      },
+      "Am7 Em7 G": {
+        "count": 1596,
+        "confidence_sum": 1596.0
+      },
+      "C G": {
+        "count": 2,
+        "confidence_sum": 2.0
+      }
+    },
+    "Em": {
+      "Fmaj7 F#7#9 Gmaj7 G#maj7add13": {
+        "count": 340,
+        "confidence_sum": 340.0
+      },
+      "Em7": {
+        "count": 556,
+        "confidence_sum": 295.9575999999976
+      },
+      "A/D G/C": {
+        "count": 278,
+        "confidence_sum": 147.50040000000038
+      },
+      "D/G C/F": {
+        "count": 278,
+        "confidence_sum": 147.0220000000004
+      },
+      "A7 G/C D/G C/F": {
+        "count": 278,
+        "confidence_sum": 147.50040000000038
+      },
+      "Em7 D/G E/A Em7": {
+        "count": 278,
+        "confidence_sum": 147.50040000000038
+      },
+      "C/F F#7#9 B7#5#9 Em7 C/F": {
+        "count": 278,
+        "confidence_sum": 147.0220000000004
+      },
+      "F#7#9 B7#5#9 Em7 A7": {
+        "count": 278,
+        "confidence_sum": 147.0220000000004
+      },
+      "Am7 D7 Gmaj7 Cmaj7": {
+        "count": 677,
+        "confidence_sum": 661.3919000000003
+      },
+      "F#7#9 B7#5#9": {
+        "count": 958,
+        "confidence_sum": 827.0220000000071
+      },
+      "Em A7 Em7": {
+        "count": 1170,
+        "confidence_sum": 1035.5837999999944
+      },
+      "Em A7 Em7 A7 Em A7 Em7 A7": {
+        "count": 684,
+        "confidence_sum": 684.0
+      },
+      "A7 Em A7 Em7": {
+        "count": 190,
+        "confidence_sum": 190.0
+      },
+      "A7 Em A7 Em7 A7": {
+        "count": 440,
+        "confidence_sum": 411.5
+      },
+      "Em A7 Em A7": {
+        "count": 190,
+        "confidence_sum": 190.0
+      },
+      "A A7 G D C C7": {
+        "count": 379,
+        "confidence_sum": 379.0
+      },
+      "Em Em7 D7sus4": {
+        "count": 190,
+        "confidence_sum": 190.0
+      },
+      "Em A7 Em7 A7 Em A7 Em7": {
+        "count": 5,
+        "confidence_sum": 5.0
+      },
+      "C7 Am Em A7": {
+        "count": 61,
+        "confidence_sum": 61.0
+      },
+      "A7 A Em7": {
+        "count": 378,
+        "confidence_sum": 378.0
+      },
+      "D7sus4 D7 C7 C": {
+        "count": 378,
+        "confidence_sum": 378.0
+      },
+      "D7 C7 Am Em A7": {
+        "count": 132,
+        "confidence_sum": 66.0
+      },
+      "C7 C D D7 Em A": {
+        "count": 378,
+        "confidence_sum": 378.0
+      },
+      "D D7 Em A7": {
+        "count": 696,
+        "confidence_sum": 628.7918999999982
+      },
+      "F# A7sus4 A7": {
+        "count": 507,
+        "confidence_sum": 439.7919000000008
+      },
+      "Em A7 Em7 A7": {
+        "count": 189,
+        "confidence_sum": 189.0
+      },
+      "Em Em7 D7sus4 D7": {
+        "count": 189,
+        "confidence_sum": 189.0
+      },
+      "C7 C D D7 Em A7": {
+        "count": 186,
+        "confidence_sum": 118.79189999999981
+      },
+      "Emaj7 F7#9 F#maj7 Gmaj7add13": {
+        "count": 24,
+        "confidence_sum": 24.0
+      },
+      "F7#9 A#7#5#9": {
+        "count": 90,
+        "confidence_sum": 69.669
+      },
+      "Bm E7 Bm7": {
+        "count": 75,
+        "confidence_sum": 69.77359999999999
+      },
+      "E7 Bm E7 Bm7": {
+        "count": 15,
+        "confidence_sum": 15.0
+      },
+      "E7 Bm E7 Bm7 E7": {
+        "count": 33,
+        "confidence_sum": 31.5
+      },
+      "E7 E Bm7": {
+        "count": 30,
+        "confidence_sum": 30.0
+      },
+      "A7sus4 A7 G7 G": {
+        "count": 30,
+        "confidence_sum": 30.0
+      },
+      "Bm E7 Bm E7": {
+        "count": 15,
+        "confidence_sum": 15.0
+      },
+      "E E7 D A G G7": {
+        "count": 30,
+        "confidence_sum": 30.0
+      },
+      "Bm Bm7 A7sus4": {
+        "count": 15,
+        "confidence_sum": 15.0
+      },
+      "A7 G7 Em Bm E7": {
+        "count": 12,
+        "confidence_sum": 6.0
+      },
+      "G7 G A A7 Bm E": {
+        "count": 30,
+        "confidence_sum": 30.0
+      },
+      "A A7 Bm E7": {
+        "count": 50,
+        "confidence_sum": 47.38680000000001
+      },
+      "Em7 A7 Dmaj7 Gmaj7": {
+        "count": 35,
+        "confidence_sum": 32.3868
+      },
+      "C# E7sus4 E7": {
+        "count": 35,
+        "confidence_sum": 32.3868
+      },
+      "Bm E7 Bm7 E7 Bm E7 Bm7 E7": {
+        "count": 40,
+        "confidence_sum": 40.0
+      },
+      "Bm E7 Bm7 E7": {
+        "count": 15,
+        "confidence_sum": 15.0
+      },
+      "Bm Bm7 A7sus4 A7": {
+        "count": 15,
+        "confidence_sum": 15.0
+      },
+      "G7 G A A7 Bm E7": {
+        "count": 8,
+        "confidence_sum": 5.386799999999999
+      },
+      "D#m7": {
+        "count": 84,
+        "confidence_sum": 43.337999999999944
+      },
+      "G#/C# F#/B": {
+        "count": 42,
+        "confidence_sum": 21.668999999999997
+      },
+      "C#/F# B/E": {
+        "count": 42,
+        "confidence_sum": 21.668999999999997
+      },
+      "G#7 F#/B C#/F# B/E": {
+        "count": 42,
+        "confidence_sum": 21.668999999999997
+      },
+      "D#m7 C#/F# D#/G# D#m7": {
+        "count": 42,
+        "confidence_sum": 21.668999999999997
+      },
+      "B/E F7#9 A#7#5#9 D#m7 B/E": {
+        "count": 42,
+        "confidence_sum": 21.668999999999997
+      },
+      "F7#9 A#7#5#9 D#m7 G#7": {
+        "count": 42,
+        "confidence_sum": 21.668999999999997
+      },
+      "G#m7 C#7 F#maj7 Bmaj7": {
+        "count": 42,
+        "confidence_sum": 21.668999999999997
+      },
+      "G7 Em Bm E7": {
+        "count": 3,
+        "confidence_sum": 3.0
+      }
+    },
+    "A": {
+      "A Bm7 A/C# A": {
+        "count": 12,
+        "confidence_sum": 11.036200000000001
+      },
+      "D D#dim E Fdim F#m F": {
+        "count": 20,
+        "confidence_sum": 18.072400000000002
+      },
+      "E D#dim D Dm A/C# B7 E7 A": {
+        "count": 10,
+        "confidence_sum": 9.036200000000001
+      },
+      "D A/C# B7 E7sus4 A": {
+        "count": 30,
+        "confidence_sum": 28.072400000000002
+      },
+      "E/G# F#7/A# F#m7/B B7 E": {
+        "count": 4,
+        "confidence_sum": 4.0
+      },
+      "G D/F# Em D C6 D": {
+        "count": 20,
+        "confidence_sum": 20.0
+      },
+      "G D/F# Em D C6 B7": {
+        "count": 20,
+        "confidence_sum": 20.0
+      },
+      "E7sus4 A": {
+        "count": 20,
+        "confidence_sum": 18.072400000000002
+      },
+      "A Bm7 A/C# A D D#dim E Fdim F#m F": {
+        "count": 10,
+        "confidence_sum": 10.0
+      },
+      "Dsus2 A/C# Bm A Em/G A": {
+        "count": 2,
+        "confidence_sum": 2.0
+      },
+      "E D#dim D Dm A/C# B7 E7sus4 A": {
+        "count": 10,
+        "confidence_sum": 10.0
+      },
+      "A Bm7 A/C# A A A": {
+        "count": 10,
+        "confidence_sum": 10.0
+      },
+      "A Bm7 A/C# D A/C# B7 E7sus4": {
+        "count": 10,
+        "confidence_sum": 10.0
+      },
+      "E F#m7 E/G# A G#m F#7/A# F#m7/B": {
+        "count": 2,
+        "confidence_sum": 2.0
+      },
+      "E F#m7 E/G# E": {
+        "count": 8,
+        "confidence_sum": 8.0
+      },
+      "A A#dim B C C#m Caug": {
+        "count": 6,
+        "confidence_sum": 6.0
+      },
+      "B A#dim A Am": {
+        "count": 6,
+        "confidence_sum": 6.0
+      },
+      "E/G# F#7 A/B E": {
+        "count": 6,
+        "confidence_sum": 6.0
+      },
+      "A E/G# F#7 A/B E": {
+        "count": 6,
+        "confidence_sum": 6.0
+      },
+      "D C#m Bm A Em/G A": {
+        "count": 4,
+        "confidence_sum": 4.0
+      },
+      "D C#m Bm A Em/G F#7": {
+        "count": 4,
+        "confidence_sum": 4.0
+      },
+      "A/B E F#m7 E/G#": {
+        "count": 4,
+        "confidence_sum": 4.0
+      },
+      "B A#dim A Am E/G# F#7 A/B E": {
+        "count": 2,
+        "confidence_sum": 2.0
+      },
+      "E F#m7 E/G# A E/G# F#7 A/B": {
+        "count": 2,
+        "confidence_sum": 2.0
+      },
+      "A B7 D A": {
+        "count": 72,
+        "confidence_sum": 72.0
+      },
+      "B7 D A F#7": {
+        "count": 36,
+        "confidence_sum": 36.0
+      },
+      "B7 D Dm": {
+        "count": 36,
+        "confidence_sum": 36.0
+      },
+      "G Em D": {
+        "count": 36,
+        "confidence_sum": 36.0
+      },
+      "G Em B7": {
+        "count": 36,
+        "confidence_sum": 36.0
+      },
+      "Em D A": {
+        "count": 36,
+        "confidence_sum": 36.0
+      },
+      "D B7/D# E7 C#7/F F#m Aaug/F": {
+        "count": 4,
+        "confidence_sum": 4.0
+      },
+      "A/E B7/D# D Dm": {
+        "count": 2,
+        "confidence_sum": 2.0
+      },
+      "A/C# B7/D# Bm7/E E7 A": {
+        "count": 8,
+        "confidence_sum": 8.0
+      },
+      "Gsus2 D/F# Em D Am/C D": {
+        "count": 4,
+        "confidence_sum": 4.0
+      },
+      "Gsus2 D/F# Em D Am/C B7": {
+        "count": 4,
+        "confidence_sum": 4.0
+      },
+      "Em7 A/E A": {
+        "count": 4,
+        "confidence_sum": 4.0
+      },
+      "A Bm7 A/C# D C#m B7/D# Bm7/E": {
+        "count": 2,
+        "confidence_sum": 2.0
+      }
+    }
+  },
+  "bigrams": {
+    "F": {
+      "F -> F Em7 A7 Dm Dm/C": 4,
+      "F Em7 A7 Dm Dm/C -> Bb C7 F F/E Dm G7 Bb F F": 9,
+      "Bb C7 F F/E Dm G7 Bb F F -> F Em A7 Dm C Bb C7 C/E Dm7 G7": 12,
+      "F Em A7 Dm C Bb C7 C/E Dm7 G7 -> F Em7 A7 Dm Dm/C": 3,
+      "F Em7 A7 Dm Dm/C -> F Em7 A7 Dm C": 3,
+      "F Em7 A7 Dm C -> F Em A7 Dm C Bb": 3,
+      "F Em A7 Dm C Bb -> C7 F C/E Dm7 G7 Bb": 12,
+      "C7 F C/E Dm7 G7 Bb -> Bb C7 F F/E Dm G7 Bb F F": 9,
+      "F Em A7 Dm C Bb C7 C/E Dm7 G7 -> Bbmaj7 C7 F Fmaj7 Dm7 G Bb": 3,
+      "Bbmaj7 C7 F Fmaj7 Dm7 G Bb -> Em7 A7 Dm Dm/C Bb Gm C F": 3,
+      "Em7 A7 Dm Dm/C Bb Gm C F -> Em7 A7 Dm Dm/C Bb Gm C F": 198,
+      "Em7 A7 Dm Dm/C Bb Gm C F -> F Em7 A7 Dm Dm/C": 9,
+      "F Em7 A7 Dm Dm/C -> F Em A7 Dm C Bb": 9,
+      "F Em A7 Dm C Bb C7 C/E Dm7 G7 -> Em7 A7 Dm Dm/C Bb Gm C F": 3,
+      "F Em A7 Dm C Bb C7 C/E Dm7 G7 -> F Em A7 Dm C Bb": 3,
+      "C7 F C/E Dm7 G7 Bb -> F/C G/B Bb F": 3,
+      "F -> F Em A7 Dm C Bb": 4,
+      "F Em A7 Dm C Bb -> C7 F": 135,
+      "C7 F -> C/E Dm7 G7 Bb F": 96,
+      "C/E Dm7 G7 Bb F -> F Em A7 Dm C Bb": 86,
+      "F Em A7 Dm C Bb -> F Em7 A7 Dm C": 3,
+      "F Em7 A7 Dm C -> C7 F": 3,
+      "C/E Dm7 G7 Bb F -> Bbmaj7 C7 F": 3,
+      "Bbmaj7 C7 F -> F Em A7 Dm C Bb": 3,
+      "C/E Dm7 G7 Bb F -> Em7 A7 Dm Dm/C Bb Gm C F": 4,
+      "Em7 A7 Dm Dm/C Bb Gm C F -> C7 F": 4,
+      "C7 F -> Em7 A7 Dm Dm/C Bb Gm C F": 43,
+      "Em7 A7 Dm Dm/C Bb Gm C F -> Em7 A7 Dm C Bb": 4,
+      "Em7 A7 Dm C Bb -> F Em A7 Dm C Bb": 3,
+      "C/E Dm7 G7 Bb F -> F/C G/B Bb F": 250,
+      "C/E Dm7 G7 Bb F -> F Em7 A7 Dm Dm/C": 3,
+      "C7 F -> Bb C7 F F/E Dm G7 Bb F F": 3,
+      "Bb C7 F F/E Dm G7 Bb F F -> C/E Dm7 G7 Bb F": 2,
+      "Em7 A7 Dm C Bb -> F Em7 A7 Dm Dm/C": 1,
+      "Bb C7 F F/E Dm G7 Bb F F -> Em7 A7 Dm Dm/C Bb Gm C F": 114,
+      "Em7 A7 Dm Dm/C Bb Gm C F -> F/C G/B Bb F": 2,
+      "F -> F Em7 A7 Dm C": 248,
+      "F Em7 A7 Dm C -> Bbmaj7 C7 F": 744,
+      "Bbmaj7 C7 F -> Fmaj7 Dm7 G Bb F": 496,
+      "Fmaj7 Dm7 G Bb F -> F Em7 A7 Dm C": 496,
+      "Bbmaj7 C7 F -> Em7 A7 Dm C Bb Gm": 194,
+      "Em7 A7 Dm C Bb Gm -> C7 F": 388,
+      "C7 F -> Em7 A7 Dm C Bb": 388,
+      "Em7 A7 Dm C Bb -> Gm C7 F": 388,
+      "Gm C7 F -> C/E Dm7 G7 Bb F": 388,
+      "C/E Dm7 G7 Bb F -> C/E Dm7 G7 Bb F": 400,
+      "C/E Dm7 G7 Bb F -> Em7 A7 Dm C Bb Gm": 194,
+      "F F -> G": 10,
+      "G -> F Em A7 Dm C Bb": 39,
+      "Em7 A7 Dm Dm/C Bb Gm C F -> G F#m7 B7 Em D": 78,
+      "G F#m7 B7 Em D -> Cmaj7 D7 G": 78,
+      "Cmaj7 D7 G -> Em7 A7 Dm Dm/C Bb Gm C F": 39,
+      "Cmaj7 D7 G -> F/C G/B Bb F": 39,
+      "Bbmaj7 C7 F -> Bb C7 F F/E Dm G7 Bb F F": 54,
+      "Em7 A7 Dm Dm/C Bb Gm C F -> Bb C7 F F/E Dm G7 Bb F F": 54,
+      "Em7 A7 Dm Dm/C Bb Gm C F -> C/E Dm7 G7 Bb F": 54,
+      "F -> G": 29,
+      "Bb C7 F F/E Dm G7 Bb F F -> F Em7 A7 Dm Dm/C": 1,
+      "Em7 A7 Dm Dm/C Bb Gm C F -> F G/F Bb F F": 1
+    },
+    "G": {
+      "G B C Cm -> G B": 316,
+      "G B -> C Cm": 2536,
+      "C Cm -> G B": 2220,
+      "G B -> G B": 624,
+      "D F# G Gm -> D F#": 12,
+      "D F# -> G Gm": 96,
+      "G Gm -> D F#": 84,
+      "D F# -> D F#": 24,
+      "G F#m B7 Emadd9 Em -> G7 G7sus4 G7 C": 2,
+      "G7 G7sus4 G7 C -> Em/D Cmaj7 D7 G": 2,
+      "Em/D Cmaj7 D7 G -> F C": 2,
+      "F C -> G7 C C": 2,
+      "G7 C C -> G/F# Em7 A C G G": 2,
+      "G/F# Em7 A C G G -> G F#m B7 Emadd9 Em": 2,
+      "G F#m B7 Emadd9 Em -> Em/D Cmaj7 D7 G": 2,
+      "Em/D Cmaj7 D7 G -> G/F# Em7 A C G G": 2,
+      "G/F# Em7 A C G G -> F#m B7 Em D C": 2,
+      "F#m B7 Em D C -> G7 G7sus4 G7 C": 2,
+      "G7 G7sus4 G7 C -> Emadd9/B Em/B Am6 D7 G G/D G/F G/D G/C": 2,
+      "Emadd9/B Em/B Am6 D7 G G/D G/F G/D G/C -> F C": 2,
+      "F C -> F#m B7 Em D C": 2,
+      "F#m B7 Em D C -> G7 C": 2,
+      "G7 C -> Emadd9/B Em/B Am6 D7 G G/D G/C G/B": 2,
+      "Emadd9/B Em/B Am6 D7 G G/D G/C G/B -> C Cmaj7 C7 F": 2,
+      "C Cmaj7 C7 F -> Am/E Dm": 6,
+      "Am/E Dm -> Dm7/C G/B G7 C": 6,
+      "Dm7/C G/B G7 C -> C Cmaj7 C7": 2,
+      "C Cmaj7 C7 -> F Am/E Dm": 2,
+      "F Am/E Dm -> Dm7/C G/B G7 C": 2,
+      "Dm7/C G/B G7 C -> C C6 C7 G G7": 4,
+      "C C6 C7 G G7 -> G F#m B7 Emadd9 Em": 2,
+      "G F#m B7 Emadd9 Em -> Em7/D Cmaj7 D7 G": 2,
+      "Em7/D Cmaj7 D7 G -> G7 G7sus4 G7 C": 2,
+      "G7 G7sus4 G7 C -> C Cmaj7 C7 F": 2,
+      "Dm7/C G/B G7 C -> C Cmaj7 C7 F": 2,
+      "C C6 C7 G G7 -> F C": 2,
+      "F C -> C": 2,
+      "C -> C A#add9": 2,
+      "C A#add9 -> F C": 2,
+      "F C -> G5 A7/G C/G G4 G5 G4 G5": 2,
+      "G5 A7/G C/G G4 G5 G4 G5 -> F Am/E Dm": 2,
+      "F Am/E Dm -> G/B C6 A#add9": 2,
+      "D Em7 D/F# D -> D Em7 D/F# D": 2,
+      "D Em7 D/F# D -> G G#dim A A# Bm A#aug": 6,
+      "G G#dim A A# Bm A#aug -> A G#dim G Gm": 6,
+      "A G#dim G Gm -> D/F# E7 G/A D": 6,
+      "D/F# E7 G/A D -> G D/F# E7 G/A D": 4,
+      "G D/F# E7 G/A D -> D Em7 D/F# D": 2,
+      "D/F# E7 G/A D -> C Bm Am G Dm/F G": 2,
+      "C Bm Am G Dm/F G -> C Bm Am G Dm/F E7": 4,
+      "C Bm Am G Dm/F E7 -> G/A D Em7 D/F#": 4,
+      "G/A D Em7 D/F# -> A G#dim G Gm D/F# E7 G/A D": 2,
+      "A G#dim G Gm D/F# E7 G/A D -> C Bm Am G Dm/F G": 2,
+      "G/A D Em7 D/F# -> D Em7 D/F# G D/F# E7 G/A": 2,
+      "D Em7 D/F# G D/F# E7 G/A -> D Em7 D/F# D": 2,
+      "G D/F# E7 G/A D -> G D/F# E7 G/A D": 2,
+      "A Bm7 A/C# A -> A Bm7 A/C# A": 2,
+      "A Bm7 A/C# A -> D D#dim E F F#m Faug": 6,
+      "D D#dim E F F#m Faug -> E D#dim D Dm": 6,
+      "E D#dim D Dm -> A/C# B7 D/E A": 6,
+      "A/C# B7 D/E A -> D A/C# B7 D/E A": 6,
+      "D A/C# B7 D/E A -> D D#dim E F F#m Faug": 2,
+      "D D#dim E F F#m Faug -> A/C# B7 D/E A": 2,
+      "A/C# B7 D/E A -> G F#m Em D Am/C D": 2,
+      "G F#m Em D Am/C D -> G F#m Em D Am/C B7": 2,
+      "G F#m Em D Am/C B7 -> D/E A Bm7 A/C#": 2,
+      "D/E A Bm7 A/C# -> E D#dim D Dm A/C# B7 D/E A": 2,
+      "E D#dim D Dm A/C# B7 D/E A -> A Bm7 A/C# A": 2,
+      "D A/C# B7 D/E A -> D A/C# B7 D/E A": 4,
+      "D A/C# B7 D/E A -> A Bm7 A/C# D A/C# B7 D/E": 2,
+      "A Bm7 A/C# D A/C# B7 D/E -> A Bm7 A/C# A": 2
+    },
+    "D": {
+      "Dm9 D -> Dm9 D F C G": 5,
+      "Dm9 D F C G -> D F C F": 5,
+      "D F C F -> D F C G": 28,
+      "D F C G -> D F C F": 24,
+      "D F C G -> D C F G": 16,
+      "D C F G -> D D Dsus4 D Am7 Em7 G": 14,
+      "D D Dsus4 D Am7 Em7 G -> D Am7 Em7 G": 142,
+      "D Am7 Em7 G -> D Am7 Em7 G": 268,
+      "D Am7 Em7 G -> D F C F": 134,
+      "D F C F -> Dm9 D": 5,
+      "Dm9 D -> Dm9 D F C G D": 5,
+      "Dm9 D -> Dm9": 2,
+      "Dm9 -> D F C G": 8,
+      "D F C F -> Dm9": 650,
+      "Dm9 -> D": 652,
+      "D -> Dm9": 4,
+      "Dm9 -> D F C G D": 4,
+      "Dm9 D -> D Dsus4 D": 6,
+      "D Dsus4 D -> Dm9": 654,
+      "D F C F -> D F": 648,
+      "D F -> C": 1296,
+      "C -> G": 1300,
+      "G -> D F": 650,
+      "D F -> C F": 650,
+      "C F -> D F": 650,
+      "G -> D C": 650,
+      "D C -> F G": 650,
+      "F G -> D D Dsus4 D Am7 Em7 G": 4,
+      "D Am7 Em7 G -> Am7 Em7 G": 540,
+      "Am7 Em7 G -> D Am7 Em7 G": 16,
+      "D Am7 Em7 G -> D": 8,
+      "D -> D F C F": 332,
+      "D F C F -> Am7 Em7 G": 8,
+      "Am7 Em7 G -> D F C G": 2,
+      "D F C G -> C G": 2,
+      "C G -> D F": 2,
+      "D F -> D F": 2,
+      "D F -> D F C F": 2,
+      "D F -> D F C G": 2,
+      "D C F G -> F G": 2,
+      "Am7 Em7 G -> Dm9": 2,
+      "Dm9 -> D Dsus4 D": 648,
+      "F G -> D Am7 Em7 G": 648,
+      "D Am7 Em7 G -> D D Dsus4 D Am7 Em7 G": 124,
+      "Am7 Em7 G -> D F C F": 528,
+      "D F C F -> C": 4,
+      "D F C F -> D F C F": 120,
+      "D Dsus4 D -> D F C G": 2,
+      "D Dsus4 D -> D F C F": 318,
+      "Am7 Em7 G -> D": 1048,
+      "D -> Am7 Em7 G": 1048
+    },
+    "Em": {
+      "Fmaj7 F#7#9 Gmaj7 G#maj7add13 -> Em7": 2,
+      "Em7 -> A/D G/C": 47,
+      "A/D G/C -> D/G C/F": 278,
+      "D/G C/F -> Em7": 277,
+      "Em7 -> A7 G/C D/G C/F": 277,
+      "A7 G/C D/G C/F -> Em7 D/G E/A Em7": 277,
+      "Em7 D/G E/A Em7 -> C/F F#7#9 B7#5#9 Em7 C/F": 139,
+      "C/F F#7#9 B7#5#9 Em7 C/F -> F#7#9 B7#5#9 Em7 A7": 278,
+      "F#7#9 B7#5#9 Em7 A7 -> Am7 D7 Gmaj7 Cmaj7": 278,
+      "Am7 D7 Gmaj7 Cmaj7 -> F#7#9 B7#5#9": 278,
+      "F#7#9 B7#5#9 -> Em7": 2,
+      "Em7 D/G E/A Em7 -> F#7#9 B7#5#9": 21,
+      "F#7#9 B7#5#9 -> C/F F#7#9 B7#5#9 Em7 C/F": 139,
+      "F#7#9 B7#5#9 -> F#7#9 B7#5#9": 2,
+      "Fmaj7 F#7#9 Gmaj7 G#maj7add13 -> Em A7 Em7": 318,
+      "Em A7 Em7 -> Em7": 132,
+      "F#7#9 B7#5#9 -> Em A7 Em7 A7 Em A7 Em7 A7": 264,
+      "Em A7 Em7 A7 Em A7 Em7 A7 -> Em7": 132,
+      "Em7 -> A7 Em A7 Em7": 1,
+      "A7 Em A7 Em7 -> A7 Em A7 Em7 A7": 190,
+      "A7 Em A7 Em7 A7 -> Em A7 Em7": 379,
+      "Em A7 Em7 -> A/D G/C": 217,
+      "D/G C/F -> Em A7 Em A7": 1,
+      "Em A7 Em A7 -> Em7": 1,
+      "Em7 -> A A7 G D C C7": 1,
+      "A A7 G D C C7 -> A7 G/C D/G C/F": 1,
+      "A7 G/C D/G C/F -> Em Em7 D7sus4": 1,
+      "Em Em7 D7sus4 -> Em7 D/G E/A Em7": 1,
+      "Em7 D/G E/A Em7 -> Em A7 Em7 A7 Em A7 Em7": 1,
+      "Em A7 Em7 A7 Em A7 Em7 -> F#7#9 B7#5#9": 5,
+      "Em A7 Em7 A7 Em A7 Em7 A7 -> F#7#9 B7#5#9": 318,
+      "Em7 -> Em A7 Em7": 218,
+      "Em A7 Em7 -> A7 Em A7 Em7 A7": 191,
+      "A7 Em A7 Em7 A7 -> A/D G/C": 4,
+      "Em7 D/G E/A Em7 -> C7 Am Em A7": 4,
+      "C7 Am Em A7 -> Em A7 Em7 A7 Em A7 Em7": 4,
+      "Em7 -> A7 Em A7 Em7 A7": 2,
+      "Em A7 Em7 -> A7 Em A7 Em7": 189,
+      "Em A7 Em7 -> A7 A Em7": 378,
+      "A7 A Em7 -> D7sus4 D7 C7 C": 378,
+      "D7sus4 D7 C7 C -> Em A7 Em A7": 189,
+      "Em A7 Em A7 -> A A7 G D C C7": 189,
+      "A A7 G D C C7 -> Em Em7 D7sus4": 189,
+      "Em Em7 D7sus4 -> D7 C7 Am Em A7": 132,
+      "D7 C7 Am Em A7 -> C7 C D D7 Em A": 132,
+      "C7 C D D7 Em A -> D D7 Em A7": 378,
+      "D D7 Em A7 -> Am7 D7 Gmaj7 Cmaj7": 399,
+      "Am7 D7 Gmaj7 Cmaj7 -> F# A7sus4 A7": 399,
+      "F# A7sus4 A7 -> Em A7 Em7 A7 Em A7 Em7 A7": 378,
+      "Em A7 Em7 A7 Em A7 Em7 A7 -> Em A7 Em7": 189,
+      "D7sus4 D7 C7 C -> Em A7 Em7 A7": 189,
+      "Em A7 Em7 A7 -> A A7 G D C C7": 189,
+      "A A7 G D C C7 -> Em Em7 D7sus4 D7": 189,
+      "Em Em7 D7sus4 D7 -> D D7 Em A7": 132,
+      "D D7 Em A7 -> F#7#9 B7#5#9": 186,
+      "F#7#9 B7#5#9 -> C7 C D D7 Em A": 186,
+      "Em7 D/G E/A Em7 -> C7 C D D7 Em A7": 108,
+      "C7 C D D7 Em A7 -> D D7 Em A7": 186,
+      "D D7 Em A7 -> F# A7sus4 A7": 108,
+      "F# A7sus4 A7 -> F#7#9 B7#5#9": 108,
+      "Emaj7 F7#9 F#maj7 Gmaj7add13 -> Em A7 Em7": 24,
+      "D D7 Em A7 -> F7#9 A#7#5#9": 3,
+      "F7#9 A#7#5#9 -> C7 C D D7 Em A": 3,
+      "Em A7 Em7 A7 Em A7 Em7 A7 -> F7#9 A#7#5#9": 24,
+      "Fmaj7 F#7#9 Gmaj7 G#maj7add13 -> Bm E7 Bm7": 20,
+      "Bm E7 Bm7 -> E7 Bm E7 Bm7": 15,
+      "E7 Bm E7 Bm7 -> E7 Bm E7 Bm7 E7": 15,
+      "E7 Bm E7 Bm7 E7 -> Bm E7 Bm7": 30,
+      "Bm E7 Bm7 -> E7 E Bm7": 30,
+      "E7 E Bm7 -> A7sus4 A7 G7 G": 30,
+      "A7sus4 A7 G7 G -> Bm E7 Bm E7": 15,
+      "Bm E7 Bm E7 -> E E7 D A G G7": 15,
+      "E E7 D A G G7 -> Bm Bm7 A7sus4": 15,
+      "Bm Bm7 A7sus4 -> A7 G7 Em Bm E7": 12,
+      "A7 G7 Em Bm E7 -> G7 G A A7 Bm E": 12,
+      "G7 G A A7 Bm E -> A A7 Bm E7": 30,
+      "A A7 Bm E7 -> Em7 A7 Dmaj7 Gmaj7": 35,
+      "Em7 A7 Dmaj7 Gmaj7 -> C# E7sus4 E7": 35,
+      "C# E7sus4 E7 -> Bm E7 Bm7 E7 Bm E7 Bm7 E7": 30,
+      "Bm E7 Bm7 E7 Bm E7 Bm7 E7 -> Bm E7 Bm7": 15,
+      "Bm E7 Bm7 -> E7 Bm E7 Bm7 E7": 15,
+      "A7sus4 A7 G7 G -> Bm E7 Bm7 E7": 15,
+      "Bm E7 Bm7 E7 -> E E7 D A G G7": 15,
+      "E E7 D A G G7 -> Bm Bm7 A7sus4 A7": 15,
+      "Bm Bm7 A7sus4 A7 -> A A7 Bm E7": 12,
+      "A A7 Bm E7 -> F#7#9 B7#5#9": 15,
+      "F#7#9 B7#5#9 -> G7 G A A7 Bm E": 15,
+      "Bm E7 Bm7 E7 Bm E7 Bm7 E7 -> F#7#9 B7#5#9": 20,
+      "Bm E7 Bm7 -> Em7": 5,
+      "Em7 -> Bm E7 Bm7": 10,
+      "Bm E7 Bm7 -> A/D G/C": 10,
+      "F#7#9 B7#5#9 -> Bm E7 Bm7 E7 Bm E7 Bm7 E7": 10,
+      "Bm E7 Bm7 E7 Bm E7 Bm7 E7 -> Em7": 5,
+      "Em7 D/G E/A Em7 -> G7 G A A7 Bm E7": 5,
+      "G7 G A A7 Bm E7 -> A A7 Bm E7": 8,
+      "C# E7sus4 E7 -> F#7#9 B7#5#9": 5,
+      "Em A7 Em7 -> D#m7": 21,
+      "D#m7 -> Em A7 Em7": 42,
+      "Em A7 Em7 -> G#/C# F#/B": 42,
+      "G#/C# F#/B -> C#/F# B/E": 42,
+      "C#/F# B/E -> D#m7": 42,
+      "D#m7 -> G#7 F#/B C#/F# B/E": 42,
+      "G#7 F#/B C#/F# B/E -> D#m7 C#/F# D#/G# D#m7": 42,
+      "D#m7 C#/F# D#/G# D#m7 -> B/E F7#9 A#7#5#9 D#m7 B/E": 21,
+      "B/E F7#9 A#7#5#9 D#m7 B/E -> F7#9 A#7#5#9 D#m7 G#7": 42,
+      "F7#9 A#7#5#9 D#m7 G#7 -> G#m7 C#7 F#maj7 Bmaj7": 42,
+      "G#m7 C#7 F#maj7 Bmaj7 -> F7#9 A#7#5#9": 42,
+      "F7#9 A#7#5#9 -> Em A7 Em7 A7 Em A7 Em7 A7": 42,
+      "Em A7 Em7 A7 Em A7 Em7 A7 -> D#m7": 21,
+      "D#m7 C#/F# D#/G# D#m7 -> C7 C D D7 Em A7": 21,
+      "F# A7sus4 A7 -> F7#9 A#7#5#9": 21,
+      "F7#9 A#7#5#9 -> B/E F7#9 A#7#5#9 D#m7 B/E": 21,
+      "Bm Bm7 A7sus4 -> E7 Bm E7 Bm7 E7": 3,
+      "E7 Bm E7 Bm7 E7 -> G7 G A A7 Bm E": 3,
+      "Bm Bm7 A7sus4 A7 -> G7 Em Bm E7": 3,
+      "G7 Em Bm E7 -> G7 G A A7 Bm E7": 3,
+      "Em Em7 D7sus4 -> A7 Em A7 Em7 A7": 57,
+      "A7 Em A7 Em7 A7 -> C7 C D D7 Em A": 57,
+      "Em Em7 D7sus4 D7 -> C7 Am Em A7": 57,
+      "C7 Am Em A7 -> C7 C D D7 Em A7": 57
+    },
+    "A": {
+      "A Bm7 A/C# A -> D D#dim E Fdim F#m F": 10,
+      "D D#dim E Fdim F#m F -> E D#dim D Dm A/C# B7 E7 A": 10,
+      "E D#dim D Dm A/C# B7 E7 A -> D A/C# B7 E7sus4 A": 10,
+      "D A/C# B7 E7sus4 A -> E/G# F#7/A# F#m7/B B7 E": 2,
+      "E/G# F#7/A# F#m7/B B7 E -> D D#dim E Fdim F#m F": 2,
+      "D D#dim E Fdim F#m F -> G D/F# Em D C6 D": 10,
+      "G D/F# Em D C6 D -> G D/F# Em D C6 B7": 20,
+      "G D/F# Em D C6 B7 -> E7sus4 A": 20,
+      "E7sus4 A -> A Bm7 A/C# A D D#dim E Fdim F#m F": 10,
+      "A Bm7 A/C# A D D#dim E Fdim F#m F -> Dsus2 A/C# Bm A Em/G A": 2,
+      "Dsus2 A/C# Bm A Em/G A -> E D#dim D Dm A/C# B7 E7sus4 A": 2,
+      "E D#dim D Dm A/C# B7 E7sus4 A -> G D/F# Em D C6 D": 10,
+      "E7sus4 A -> A Bm7 A/C# A A A": 10,
+      "A Bm7 A/C# A A A -> E/G# F#7/A# F#m7/B B7 E": 2,
+      "E/G# F#7/A# F#m7/B B7 E -> A Bm7 A/C# D A/C# B7 E7sus4": 2,
+      "A Bm7 A/C# D A/C# B7 E7sus4 -> D A/C# B7 E7sus4 A": 10,
+      "D A/C# B7 E7sus4 A -> D A/C# B7 E7sus4 A": 10,
+      "D A/C# B7 E7sus4 A -> E F#m7 E/G# A G#m F#7/A# F#m7/B": 2,
+      "E F#m7 E/G# E -> E F#m7 E/G# E": 2,
+      "E F#m7 E/G# E -> A A#dim B C C#m Caug": 6,
+      "A A#dim B C C#m Caug -> B A#dim A Am": 6,
+      "B A#dim A Am -> E/G# F#7 A/B E": 6,
+      "E/G# F#7 A/B E -> A E/G# F#7 A/B E": 4,
+      "A E/G# F#7 A/B E -> E F#m7 E/G# E": 2,
+      "E/G# F#7 A/B E -> D C#m Bm A Em/G A": 2,
+      "D C#m Bm A Em/G A -> D C#m Bm A Em/G F#7": 4,
+      "D C#m Bm A Em/G F#7 -> A/B E F#m7 E/G#": 4,
+      "A/B E F#m7 E/G# -> B A#dim A Am E/G# F#7 A/B E": 2,
+      "B A#dim A Am E/G# F#7 A/B E -> D C#m Bm A Em/G A": 2,
+      "A/B E F#m7 E/G# -> E F#m7 E/G# A E/G# F#7 A/B": 2,
+      "E F#m7 E/G# A E/G# F#7 A/B -> E F#m7 E/G# E": 2,
+      "A E/G# F#7 A/B E -> A E/G# F#7 A/B E": 2,
+      "A B7 D A -> B7 D A F#7": 36,
+      "B7 D A F#7 -> B7 D Dm": 36,
+      "B7 D Dm -> A B7 D A": 36,
+      "A B7 D A -> G Em D": 36,
+      "G Em D -> G Em B7": 36,
+      "G Em B7 -> Em D A": 36,
+      "Em D A -> A B7 D A": 18,
+      "D A/C# B7 E7sus4 A -> D D#dim E Fdim F#m F": 8,
+      "A Bm7 A/C# A D D#dim E Fdim F#m F -> E D#dim D Dm A/C# B7 E7sus4 A": 8,
+      "A Bm7 A/C# A A A -> A Bm7 A/C# D A/C# B7 E7sus4": 8,
+      "A Bm7 A/C# A -> D B7/D# E7 C#7/F F#m Aaug/F": 2,
+      "D B7/D# E7 C#7/F F#m Aaug/F -> A/E B7/D# D Dm": 2,
+      "A/E B7/D# D Dm -> A/C# B7/D# Bm7/E E7 A": 2,
+      "A/C# B7/D# Bm7/E E7 A -> A/C# B7/D# Bm7/E E7 A": 2,
+      "A/C# B7/D# Bm7/E E7 A -> D B7/D# E7 C#7/F F#m Aaug/F": 2,
+      "D B7/D# E7 C#7/F F#m Aaug/F -> A/C# B7/D# Bm7/E E7 A": 2,
+      "A/C# B7/D# Bm7/E E7 A -> Gsus2 D/F# Em D Am/C D": 4,
+      "Gsus2 D/F# Em D Am/C D -> Gsus2 D/F# Em D Am/C B7": 4,
+      "Gsus2 D/F# Em D Am/C B7 -> Em7 A/E A": 4,
+      "Em7 A/E A -> A/C# B7/D# Bm7/E E7 A": 2,
+      "Em7 A/E A -> A Bm7 A/C# D C#m B7/D# Bm7/E": 2
+    }
+  }
+}

@@ -1,0 +1,127 @@
+Song: Yesterday
+Artist: The Beatles
+Composer: Paul McCartney 
+         (Credited to Lennon & McCartney)
+Album: Help
+
+Tabbed by DJ  20th June 2019
+=====================================================
+VERY IMPORTANT NOTE: On the 'HELP!' album 'Yesterday'
+is played in G on guitar, but with the full tone
+dropped tuning the song then sounds in the key of F
+
+Alternatively, here's a rare live band version video
+without any guitar detuning, played in the key of G
+https://www.youtube.com/watch?v=4YWyFIzSeXI
+
+DROPPED TUNING: D-G-C-F-A-d 
+De-tune all the strings a whole tone down
+below standard tuning.
+Using a chromatic tuner may make this a bit easier
+
+IGNORE THE CHORD BOX DIAGRAMS that the website
+displays, they are generated automatically from a
+generic database and often don't show the best
+options for a particular chord progression. Just use
+the voicings suggested in the text column numbers.
+
+NOTE: Chords are named as if still in standard tuning
+
+G      = 320033   G/F#     = 2x0033    Am6  = x02212
+F#m    = 244222   Em7      = 022030   (G/D) = xx0033
+B7     = x21202   A        = x02220   (G/F) = xx3033
+Emadd9 = xx2002   C        = x32010   (G/C) = x30033
+Em     = xx2000   D        = xx0232   (G/B) = x20033
+Em7/D  = xx0000   C *      = x32013    G5   = xxx033
+Cmaj7  = x32000   Emadd9/B = x22002    A7/G = xxx023
+D7     = xx0212   Em/B     = x22000    C5/G = xxx013
+                                      (G4)  = xxx013
+^ = Emphasise the beats
+
+Please take a second to scroll down to the bottom of
+the page and select a star rating for my tab, thanks
+=====================================================
+
+   G
+|  /  /  /  /  |  /  /  /  /  |
+
+[Verse 1]
+G         F#m         B7                 Emadd9  Em
+Yesterday   ...all my troubles seemed so far a - way,
+Em/D Cmaj7      D7                      G
+         Now it looks as though they're here to stay,
+G/F# Em7    A        C     G     G
+Oh,  I be - lieve in yes - ter - day
+                      ^     ^     ^
+[Verse 2]
+G         F#m          B7             Emadd9  Em
+Suddenly,   ...I'm not half the man I used to be,
+Em/D  Cmaj7           D7             G  
+            There's a shadow hanging over me,
+G/F# Em7      A        C     G     G
+Oh,  yester - day came sud - den - ly
+                       ^     ^     ^
+
+F#m    B7     Em  D  C *
+Why ...she ...had to go,
+Emadd9/B Em/B  Am6       D7       G   (G/D)(G/F)(G/D)(G/C)
+I     ...don't know, she wouldn't say,
+F#m   B7      Em     D     C *
+I  ...said ...some - thing wrong,
+Emadd9/B Em/B Am6      D7       G  (G/D) (G/C) (G/B)
+Now      I    long for yester - day-----------------!
+
+[Verse 3]
+G          F#m            B7           Emadd9  Em
+Yesterday,    ...love was such an easy game to play,
+Em7/D  Cmaj7         D7              G
+              Now I  need a place to hide away,
+G/F#  Em7    A        C     G     G
+Oh,   I be - lieve in yes - ter - day
+                      ^     ^     ^
+
+F#m    B7     Em  D  C *
+Why ...she ...had to go,
+Emadd9/B Em/B  Am6       D7       G   (G/D)(G/F)(G/D)(G/C)
+I     ...don't know, she wouldn't say,
+F#m   B7      Em     D     C *
+I  ...said ...some - thing wrong,
+Emadd9/B Em/B Am6      D7       G  (G/D) (G/C) (G/B)
+Now      I    long for yester - day-----------------!
+
+[Verse 4]
+G          F#m           B7           Emadd9  Em
+Yesterday,   ...love was such an easy game to play,
+Em7/D  Cmaj7         D7              G
+              Now I  need a place to hide away,
+G/F# Em7    A        C     G     G
+Oh,  I be - lieve in yes - ter - day
+                     ^     ^     ^
+
+ G5         A7/G       C/G (G4) G5 (G4) G5
+ Hmm, mm!   Mm, mm!    Hmm, mm    - mm!
+=====================================================
+[Bridge riff]
+ ...had to  go  I  don't...
+d|--0---2---3---2--0---|
+A|---------------------|
+F|---------------------|
+C|--2---0--------------|
+G|----------3---2------|
+D|---------------------|
+
+[Bridge - bass progression fills]
+d|----3----3-------|    d|----3---3---3---3--|
+A|----3----3-------|    A|----3---3---3---3--|
+F|--0----3----0----|    F|-------------------|
+C|--------------3--|    C|------0------------|
+G|-----------------|    G|----------3---2----|
+D|-----------------|    D|--3----------------|
+
+   [Coda riff]        h = hammer-on notes
+d|--3---3-3---3---3-3--|--3------3-----3--||
+A|--3---3-3---2---2-2--|--1---1-h3--1-h3--||
+F|--0-0-0-0---0-0-0-0--|--0------0-----0--||
+C|---------------------|------------------||
+G|---------------------|------------------||
+D|---------------------|------------------||

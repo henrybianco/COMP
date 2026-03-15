@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sources": {
+    "ultimate_guitar": {
+      "observations": 1997,
+      "consistency_sum": 1697.5677000000098,
+      "consistency_mean": 0.8501,
+      "prior_weight": 1.0,
+      "live_weight": 0.8501
+    },
+    "unknown": {
+      "observations": 1028,
+      "consistency_sum": 902.8502999999964,
+      "consistency_mean": 0.8783,
+      "prior_weight": 0.75,
+      "live_weight": 0.8783
+    },
+    "ug": {
+      "observations": 75,
+      "consistency_sum": 71.66699999999999,
+      "consistency_mean": 0.9556,
+      "prior_weight": 0.8,
+      "live_weight": 0.9556
+    }
+  },
+  "authors": {}
+}
