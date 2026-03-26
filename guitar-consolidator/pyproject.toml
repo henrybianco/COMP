@@ -13,6 +13,9 @@ dev = [
     "pytest",
 ]
 
+[tool.setuptools.packages.find]
+include = ["parser*", "scorer*", "consolidator*", "knowledge*"]
+
 [project.scripts]
 consolidate = "main:main"
 scrape = "scraper:main"
