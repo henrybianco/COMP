@@ -84,6 +84,8 @@ python main.py tests/old_man_tab_a.txt tests/old_man_tab_b.txt \
 make test
 ```
 
+See `LIVE_TESTING.md` for the live testing playbook.
+
 ## Project Structure
 
 ```
