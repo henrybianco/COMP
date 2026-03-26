@@ -1,0 +1,22 @@
+[project]
+name = "guitar-consolidator"
+version = "0.1.0"
+description = "Consolidates multiple guitar chord tabs into a single best-of-breed chord chart"
+requires-python = ">=3.10"
+dependencies = [
+    "cloudscraper>=1.2.71",
+    "beautifulsoup4>=4.12",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+]
+
+[tool.setuptools.packages.find]
+include = ["parser*", "scorer*", "consolidator*", "knowledge*"]
+
+[project.scripts]
+consolidate = "main:main"
+scrape = "scraper:main"
+serve = "server:main"
