@@ -363,7 +363,9 @@ def fetch_tabs(
     if cached and not refresh:
         if verbose:
             print(f"  Cache hit — {len(cached)} file(s) in {_cache_dir(song, artist)}")
-        return cached, []
+        urls_file = _cache_dir(song, artist) / "_source_urls.txt"
+        urls = urls_file.read_text(encoding="utf-8").splitlines() if urls_file.exists() else []
+        return cached, urls
 
     # Create one session for the whole run; Cloudflare challenge solved once.
     session = _session or _make_session()
@@ -481,6 +483,10 @@ def fetch_tabs(
 
     if not fetched:
         raise RuntimeError("Could not fetch any tab content from UG.")
+
+    # Persist URLs so cache hits can return them too
+    urls_file = _cache_dir(song, artist) / "_source_urls.txt"
+    urls_file.write_text("\n".join(fetched_urls), encoding="utf-8")
 
     return fetched, fetched_urls
 

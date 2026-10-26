@@ -134,6 +134,50 @@
   }
 
   #output.visible { opacity: 1; }
+  #output a:hover { text-decoration: underline; }
+
+  #sources-panel {
+    width: 100%;
+    max-width: 640px;
+    margin-bottom: 1.5rem;
+    display: none;
+  }
+
+  #sources-panel.visible { display: block; }
+
+  #sources-toggle {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--dim);
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    transition: color 0.15s, border-color 0.15s;
+  }
+
+  #sources-toggle:hover { color: var(--fg); border-color: var(--dim); }
+  #sources-toggle:disabled { display: none; }
+
+  #sources-list {
+    margin-top: 0.75rem;
+    font-family: var(--mono);
+    font-size: 0.75rem;
+    line-height: 2;
+    color: var(--dim);
+    display: none;
+  }
+
+  #sources-list.open { display: block; }
+
+  #sources-list a {
+    color: var(--accent);
+    text-decoration: none;
+  }
+
+  #sources-list a:hover { text-decoration: underline; }
 </style>
 </head>
 <body>
@@ -154,13 +198,31 @@
   </div>
 </form>
 
+<div id="sources-panel">
+  <button type="button" id="sources-toggle">Sources</button>
+  <div id="sources-list"></div>
+</div>
+
 <div id="output"></div>
 
 <script>
-  const form   = document.getElementById('search-form');
-  const btn    = document.getElementById('btn');
-  const status = document.getElementById('status');
-  const output = document.getElementById('output');
+  const form      = document.getElementById('search-form');
+  const btn       = document.getElementById('btn');
+  const status    = document.getElementById('status');
+  const output    = document.getElementById('output');
+  const srcPanel  = document.getElementById('sources-panel');
+  const srcToggle = document.getElementById('sources-toggle');
+  const srcList   = document.getElementById('sources-list');
+
+  srcToggle.addEventListener('click', () => {
+    srcList.classList.toggle('open');
+    srcToggle.textContent = srcList.classList.contains('open') ? 'Sources ▾' : 'Sources ▸';
+  });
+
+  function linkify(text) {
+    return text.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+      .replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank" rel="noopener" style="color:var(--accent);text-decoration:none">$1</a>');
+  }
 
   form.addEventListener('submit', async (e) => {
     e.preventDefault();
@@ -173,6 +235,10 @@
     status.textContent = 'fetching…';
     output.className = '';
     output.textContent = '';
+    srcPanel.className = '';
+    srcList.className = '';
+    srcList.innerHTML = '';
+    srcToggle.textContent = 'Sources ▸';
 
     try {
       const res = await fetch(
@@ -185,8 +251,27 @@
       }
 
       const text = await res.text();
-      output.textContent = text;
+
+      // Extract source URLs and strip the Sources block from output
+      const urls = [];
+      const cleanText = text.replace(/\nSources\n─+\n([\s\S]*?)$/, (_, block) => {
+        block.trim().split('\n').forEach(line => {
+          const url = line.trim();
+          if (url) urls.push(url);
+        });
+        return '';
+      });
+
+      output.innerHTML = linkify(cleanText);
       output.className = 'visible';
+
+      if (urls.length) {
+        srcList.innerHTML = urls.map(u =>
+          `<a href="${u}" target="_blank" rel="noopener">${u}</a>`
+        ).join('<br>');
+        srcPanel.className = 'visible';
+      }
+
       status.textContent = '';
 
     } catch (err) {
